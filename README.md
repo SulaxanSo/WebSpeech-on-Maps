@@ -1,6 +1,6 @@
 # WebSpeech-on-Maps
 
-This application allows the user a speech-based interaction with digital maps on mobile phones. The voice commands are in German.
+This application allows the user to add geographic data to digital maps on mobile phones via a speech-based interaction. The voice commands are in German.
 
 WebSpeech-on-Maps can handle the following commands:
 - hineinzoomen
